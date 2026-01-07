@@ -50,3 +50,4 @@ For better visualization, a zoomed-out view is provided as `output_zoomed.png`.
 
 
 
+
