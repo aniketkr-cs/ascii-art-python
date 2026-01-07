@@ -44,4 +44,9 @@ The ASCII output is generated as plain text in `output.txt`.
 Due to the nature of ASCII art, the facial structure becomes clearer
 when the output is viewed at a lower zoom level (70–80%).
 For better visualization, a zoomed-out view is provided as `output_zoomed.png`.
+## Output Preview
+![ASCII Output]<img width="188" height="216" alt="output_zoomed png" src="https://github.com/user-attachments/assets/688340b5-1258-4651-a8e6-47e594d9264c" />
+
+
+
 
